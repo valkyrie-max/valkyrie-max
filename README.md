@@ -6,15 +6,15 @@
 
 I've always been proud of my determination and ability to meet any challenge head on. ᕕ( ᐛ )ᕗ
 
-I am highly eager to learn new things, recieve feeback and criticism, and improve my coding skills and abilities. 
+I am highly eager to learn new things, receive feeback and criticism, and improve my coding skills and abilities. 
 
-Some of my hobbies outside of coding and webdevelopment include (but not limited to!): learning human languages, writing small detective stories, gaming, anime, and manga. 
+Some of my hobbies outside of coding and web development include (but not limited to!): learning human languages, writing small detective stories, gaming, anime, and manga. 
 
 I am open to collaboration! Hmu: [here](https://twitter.com/alisacodes). 
 
 ### As of 07/18/20, I am capable of these things: 
-- Desgining and building websites from scratch and [pecesely following PDFs](https://valkyrie-max.github.io/alisa_kitkina_project_two/) (*HTML, CSS, SCSS*; 
-- Building some cool [quizes](https://valkyrie-max.github.io/alisaKitkinaProjectThree/) and [randomized generators](https://valkyrie-max.github.io/randonime/) (*JQuery and vanilla JavaScript*);
+- Designing and building websites from scratch and [precisely following PDFs](https://valkyrie-max.github.io/alisa_kitkina_project_two/) (*HTML, CSS, SCSS*; 
+- Building some cool [quizzes](https://valkyrie-max.github.io/alisaKitkinaProjectThree/) and [randomized generators](https://valkyrie-max.github.io/randonime/) (*JQuery and vanilla JavaScript*);
 - Creating more complex apps in an [agency-like environment](https://rocketbattle.github.io/battleRockets/) or [solo](https://valkyrie-max.github.io/frameOfMind/) (*React.js, Firebase, API*);
 - Having fun in VSCode, terminal, and git; 
 
