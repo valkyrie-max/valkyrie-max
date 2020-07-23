@@ -19,7 +19,7 @@ I am open to collaboration! Hmu: [here](https://twitter.com/alisacodes).
 - Having fun in VSCode, terminal, and git; 
 
 ### What are you currently working on?
-Right now (July, 2020) I am working on a [personal blog](https://github.com/valkyrie-max/personalBlog) built in Gatsby with some graphQL and Node.
+Right now (July, 2020) I am working on my [portfolio](https://alisacodes.dev/) redesign. 
 
 ### What are you planning on working in the future? 
 [Here is the list of the project ideas](https://docs.google.com/document/d/11thLYvJ2EIhzrTC7sCoyNonenfBGjcCaZXV-9uZpMjg/edit?usp=sharing) I've got as of July 2020. This doc will be updated as I come up with more stuff! If you are interested in collaboration, [hmu](https://twitter.com/alisacodes).
