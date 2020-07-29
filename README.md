@@ -12,12 +12,6 @@ Some of my hobbies outside of coding and web development include (but not limite
 
 I am open to collaboration! Hmu: [here](https://twitter.com/alisacodes). 
 
-### As of 07/18/20, I am capable of these things: 
-- Designing and building websites from scratch and [precisely following PDFs](https://valkyrie-max.github.io/alisa_kitkina_project_two/) (*HTML, CSS, SCSS*; 
-- Building some cool [quizzes](https://valkyrie-max.github.io/alisaKitkinaProjectThree/) and [randomized generators](https://valkyrie-max.github.io/randonime/) (*JQuery and vanilla JavaScript*);
-- Creating more complex apps in an [agency-like environment](https://rocketbattle.github.io/battleRockets/) or [solo](https://valkyrie-max.github.io/frameOfMind/) (*React.js, Firebase, API*);
-- Having fun in VSCode, terminal, and git; 
-
 ### What are you currently working on?
 Right now (July, 2020) I am working on my [portfolio](https://alisacodes.dev/) redesign. 
 
