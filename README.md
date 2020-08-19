@@ -4,7 +4,7 @@
 
 ### About me 
 
-I've always been proud of my determination and ability to meet any challenge head on. ᕕ( ᐛ )ᕗ
+I've always been proud of my determination and ability to meet any challenge head on.
 
 I am highly eager to learn new things, receive feeback and criticism, and improve my coding skills and abilities. 
 
