@@ -1,6 +1,6 @@
 # Hello! (￣ω￣)/
 
-## [Alisa](https://alisacodes.dev/); Born and raised in 🇷🇺;  Currently based in 🇨🇦; [Resume](https://bit.ly/3ikHX4e)
+## [Alisa](https://alisacodes.dev/); Born and raised in 🇷🇺;  Currently based in 🇨🇦; [Resume](https://drive.google.com/file/d/1t9MrJNhS59LveqX4k-a61l-sO2owt3zw/view?usp=sharing)
 
 ### About me 
 
