@@ -1,10 +1,12 @@
 # Hello! (￣ω￣)/
 
-## [Alisa](https://alisacodes.dev/); Born and raised in 🇷🇺;  Currently based in 🇨🇦; [Resume](https://drive.google.com/file/d/1t9MrJNhS59LveqX4k-a61l-sO2owt3zw/view?usp=sharing)
+## [Alisa](https://alisacodes.dev/); [Resume](https://drive.google.com/file/d/1t9MrJNhS59LveqX4k-a61l-sO2owt3zw/view?usp=sharing)
 
 ### About me 
 
-I've always been proud of my determination and ability to meet any challenge head on.
+I am a Front End Developer based in Toronto. 
+
+I have always been proud of my determination and ability to meet any challenge head on.
 
 I am highly eager to learn new things, receive feeback and criticism, and improve my coding skills and abilities. 
 
