@@ -2,8 +2,6 @@
 
 ## Front End Developer. Japan lover. Mushrooms hater. 
 
-My name is Alisa and I code!
-
 **I am available for hire! Feel free to contact me! You can find more info about me [here](https://alisacodes.dev/) and [here](https://drive.google.com/file/d/1t9MrJNhS59LveqX4k-a61l-sO2owt3zw/view?usp=sharing).**
 
 * With the background in International Development and customer service, I care a lot about people and their needs, which directly translates in what I create with the code magic. :sparkles:
