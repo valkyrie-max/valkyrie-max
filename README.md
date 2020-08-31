@@ -14,4 +14,4 @@ I am also open to collaboration! Hmu: [here](https://twitter.com/alisacodes).
 ### Mediocre facts about me 
 * Left-handed;
 * ISTJ; 
-* Can't handle spicy food; 
+* Also speaks Russian;  
