@@ -9,4 +9,4 @@
 ### Mediocre facts about me 
 * Left-handed;
 * ISTJ; 
-* Also speaks Russian;  
+* I also speak Russian;  
